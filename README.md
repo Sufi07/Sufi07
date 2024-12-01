@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufiyan Ali Iqbal</h1>
-<h3 align="center">ISTQB Certified QA Engineer with 2+ years' expertise in testing Mobile, Web, SaaS, and Desktop applications. Proficient in Python, Selenium, Cypress, Postman API, and JMeter.</h3>
+<h3 align="center">ISTQB Certified QA Engineer with 3+ years' expertise in testing Mobile, Web, SaaS, and Desktop applications. Proficient in Python, Selenium, Cypress, Postman API, and JMeter.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sufi07" alt="sufi07" /></a> </p>
 
